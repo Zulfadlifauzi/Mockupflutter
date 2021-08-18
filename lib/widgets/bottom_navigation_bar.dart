@@ -40,7 +40,7 @@ class _BottomTabNavigatorState extends State<BottomTabNavigator> {
         items: [
           BottomNavigationBarItem(
               icon: Icon(Icons.home_outlined), label: 'Home'),
-          BottomNavigationBarItem(icon: Icon(Icons.search), label: 'Seacrh'),
+          BottomNavigationBarItem(icon: Icon(Icons.search), label: 'Explore'),
           BottomNavigationBarItem(
               icon: Icon(Ionicons.ticket_outline), label: 'Benefits'),
           BottomNavigationBarItem(
